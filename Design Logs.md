@@ -7,13 +7,13 @@
 #Progress Logs (Abstract)
 
 - Got Interrupts working on MEGA Feb 5
-    - See MEGA board Interrupt Success
+    - See MEGA board Interrupt Success.mp4
     - See MEGAInterrupt.ino
     - See Sprint 1 Circuit Diagrams
 
 - Got Interrupt working on Diligent Feb 11
   
-  - See [](https://youtu.be/Y2QtskAw-Xs)
+  - See [Video](https://youtu.be/Y2QtskAw-Xs) Here
   - See DiligentInterrupt.cpp
   - See Sprint 1 Circuit Diagrams
 
