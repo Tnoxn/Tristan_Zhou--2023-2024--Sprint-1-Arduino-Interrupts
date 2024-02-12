@@ -13,4 +13,6 @@
 
 - Got Interrupt working on Diligent Feb 11
   
-  - See 
+  - See [](https://youtu.be/Y2QtskAw-Xs)
+  - See DiligentInterrupt.cpp
+  - See Sprint 1 Circuit Diagrams
